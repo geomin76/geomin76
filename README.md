@@ -1,5 +1,5 @@
 ### Good morning!
 
-My name is Geo Min, and I'm a software developer in Raleigh NC! 
+My name is Geo Min!
 
-Aside from work, I love to code, go outdoors, travel and take photos!
+I love the world and the code + outdoors it has to offer.
