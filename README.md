@@ -1,4 +1,4 @@
-### Good morning!
+### Hello, World!
 
 My name is Geo Min, and I love the world and the code + nature it has to offer. 
 
